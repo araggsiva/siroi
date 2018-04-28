@@ -1,0 +1,42 @@
+﻿				AppliancesDelivered
+ 
+Demo Application Document:
+
+1.Login
+
+	a) To Login ,Please click top login button and enter below mentioned credentials.
+	
+		UN : siva@example.com
+		PWD: admin123
+	b) Once succesfully logged in, user session will be created and logout link will appear.
+ 	
+Files:
+
+	ctrl : Welcomecontroller,Usercontroller
+	views: index file
+
+2. Product Listing & Sharing:
+
+	In home page will displaying all products with dynamic meta data , And user can able add in  to his wishlist.And also share in facebook.
+
+Files: Ajaxcontroller
+
+3.Wishlist :
+
+	In wishlist displaying all products,which is listed by user.On click of each product will take through detail screen of product.User has provision to delete selected item.
+
+Files: Wishlistcontroller
+Views: wishlist
+
+4.Single product details screen:
+	
+	In Product Detail page,meta data of product like price,description etc..,will be there.
+
+Files: 
+views: product file
+
+Github Link:   https://github.com/araggsiva/siroi.git
+sql file: siroi.sql
+Release document: siroi.txt
+
+
